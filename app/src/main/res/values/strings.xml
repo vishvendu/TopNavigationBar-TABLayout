@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TopNavigationBar-TABLayout</string>
+    <string name="movies">MOVIES</string>
+    <string name="tvshow">TV SHOW</string>
+    <string name="people">PEOPLE</string>
+    <string name="search">SEARCH</string>
+    <string name="profile">PROFILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Movie fragment</string>
+    <string name="hello_people_fragment">Hello People Fragment</string>
+    <string name="hello_Profile_fragment">Hello Profile Fragment</string>
+    <string name="hello_search_fragment">Hello Search Fragment</string>
+    <string name="hello_tvshow_fragment">Hello TV SHOW Fragment</string>
+</resources>
